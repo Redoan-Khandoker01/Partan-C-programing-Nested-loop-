@@ -5,11 +5,7 @@ int main()
     
 
 // partan print sytem 
-                    // *****
-                    // ****
-                    // ***
-                    // **
-                    // *
+   
     int n; 
     int row=1;
     scanf("%d",&n);
